@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="СostСalculate.Element3DModel" Collapsed="true">
+    <Position X="0.5" Y="2.75" Width="2" />
+    <Members>
+      <Method Name="MessageMissingMark" Hidden="true" />
+      <Method Name="MessageMissingMaterial" Hidden="true" />
+      <Method Name="ToString" Hidden="true" />
+    </Members>
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>QgAAAAAIgAAkAAAEBEAABAQQkCABAASEBCAAAAKAigA=</HashCode>
+      <FileName>Element3DModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="СostСalculate.Family3DModel" Collapsed="true">
+    <Position X="2" Y="3.75" Width="1.5" />
+    <Members>
+      <Method Name="ToString" Hidden="true" />
+    </Members>
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>QgAAAgAAAAAAAAgEBAAAAAQSAAAEAATgBAAEAAKAChE=</HashCode>
+      <FileName>Family3DModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="СostСalculate.Area3dModel" Collapsed="true">
+    <Position X="3" Y="2.75" Width="1.5" />
+    <Members>
+      <Method Name="MessageMissingFloor" Hidden="true" />
+      <Method Name="ToString" Hidden="true" />
+    </Members>
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>QgAAAAAAAAAAAAEEBAAJAIQQASAEAASABiAEAAKAChE=</HashCode>
+      <FileName>Area3dModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="СostСalculate.Category3DModel" Collapsed="true">
+    <Position X="4" Y="3.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAAAAAAAABAAAAAQQAQAEAAAABAAEAAAAAgA=</HashCode>
+      <FileName>Category3DModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="СostСalculate.Level3dModel" Collapsed="true">
+    <Position X="8" Y="3.75" Width="1.5" />
+    <Members>
+      <Method Name="ToString" Hidden="true" />
+    </Members>
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>QgAAAAAAAAAAAAAEBAAAAAQRAAAEAATABAAEAAKACgA=</HashCode>
+      <FileName>Level3dModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="СostСalculate.Material3DModel" Collapsed="true">
+    <Position X="6" Y="3.75" Width="1.5" />
+    <Members>
+      <Method Name="ToString" Hidden="true" />
+    </Members>
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>QgAAAkAAAAAAAAAEBAAAAAQSAAAEAASABAAEAAKACgA=</HashCode>
+      <FileName>Material3DModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="СostСalculate.PostgresDriver" Collapsed="true">
+    <Position X="7" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAAAAAAAAAAIBACAAACAACAAAAAAAAAAA=</HashCode>
+      <FileName>PostgresDriver.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="СostСalculate.СostСalculate" Collapsed="true">
+    <Position X="5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>СostСalculate.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="System.Object" Collapsed="true">
+    <Position X="4" Y="1.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
