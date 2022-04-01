@@ -1,4 +1,4 @@
-# <revit> Подключаемый модуль plug-in для Revitt Autodesk
+# <revit> Подключаемый модуль plug-in для Revit Autodesk
   
 Модуль обеспечивает выгрузку данных из трехмерной модели во внешнюю базу PostgreSQL.
   
